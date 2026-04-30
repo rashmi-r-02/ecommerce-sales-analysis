@@ -1,5 +1,7 @@
 # E-Commerce Sales Analysis (SQL)
 
+This project demonstrates how SQL can be used to analyze transactional data and generate actionable business insights.
+
 This project analyzes e-commerce sales data using SQL to extract meaningful business insights and support data-driven decision making.
 
 ## 🎯 Objective
@@ -32,6 +34,9 @@ To analyze sales transactions and identify key patterns in customer behavior, pr
 - SQL Query Writing
 - Business Insight Extraction
 
+## 📌 Future Improvements
+- Add visualization dashboard
+- Perform time-based trend analysis
 
 ## 🚀 Conclusion
 This project demonstrates how SQL can be used to transform raw transactional data into actionable insights for improving business performance.
