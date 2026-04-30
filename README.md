@@ -25,6 +25,14 @@ To analyze sales transactions and identify key patterns in customer behavior, pr
 ## 📁 Files
 - analysis.sql → SQL queries and analysis
 
+- These insights can help businesses improve sales strategies, identify high-performing products, and understand customer behavior for better decision-making.
+
+## 🧠 Skills Demonstrated
+- Data Analysis
+- SQL Query Writing
+- Business Insight Extraction
+
+
 ## 🚀 Conclusion
 This project demonstrates how SQL can be used to transform raw transactional data into actionable insights for improving business performance.
 
