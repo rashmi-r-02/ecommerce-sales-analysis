@@ -1,18 +1,32 @@
-# E-Commerce Sales Analysis
+# E-Commerce Sales Analysis (SQL)
 
-This project analyzes sales data using SQL to extract business insights.
+This project analyzes e-commerce sales data using SQL to extract meaningful business insights and support data-driven decision making.
 
-## Tools Used
+## 🎯 Objective
+To analyze sales transactions and identify key patterns in customer behavior, product performance, and revenue generation.
+
+## 💻 Tools Used
 - SQL
 
-## Analysis Performed
-- Total revenue calculation
-- Product-wise revenue
-- Customer spending analysis
-- Orders by city
-- Top-selling product
+## 🔍 Analysis Performed
+- Created relational tables for customers, products, and orders
+- Performed joins to combine multiple datasets
+- Calculated total revenue and product-wise sales
+- Analyzed customer spending behavior
+- Identified top-selling products and order distribution
 
-## Insights
-- Identified highest revenue-generating products
-- Found top customers based on spending
-- Analyzed sales distribution across cities
+## 📊 Key Insights
+- Total revenue generated: ₹196,000
+- Laptop generated the highest revenue
+- Phone was the most sold product
+- Top customer contributed highest overall spending
+- Sales distribution varied across cities
+
+## 📁 Files
+- analysis.sql → SQL queries and analysis
+
+## 🚀 Conclusion
+This project demonstrates how SQL can be used to transform raw transactional data into actionable insights for improving business performance.
+
+## 👩‍💻 Author
+Rashmitha R
